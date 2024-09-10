@@ -1,0 +1,1 @@
+fazendo um readme pela primeira vez no github...estou aprendendo pelo codedex
